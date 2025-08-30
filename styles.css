@@ -1,0 +1,32 @@
+#darthVader {
+    font-size: 30px;
+}
+
+#lukeSkywalker {
+    font-style: italic;
+}
+
+
+.imperio {
+    background-color: red;
+}
+
+.rebeldes {
+    background-color: blue;
+}
+
+.soldados {
+    border: 2px dashed black;
+}
+
+.soldadosText {
+    letter-spacing: 10px;
+}
+
+.unidadesApoyo {
+    text-align: center;
+}
+
+.naves {
+    text-transform: uppercase;
+}
